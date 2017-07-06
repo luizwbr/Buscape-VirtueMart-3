@@ -25,7 +25,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 Dúvidas
 ----------
 
-https://github.com/luizwbr/Buscape-VirtueMart-3issues
+https://github.com/luizwbr/Buscape-VirtueMart-3/issues
 
 Contribuições
 -------------
