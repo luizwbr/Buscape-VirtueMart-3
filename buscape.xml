@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="file" version="2.5" method="upgrade">
+	<name>Integração Buscapé - VirtueMart</name>
+	<author>Luiz Felipe Weber</author>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>weber@weber.eti.br</authorEmail>
+	<authorUrl>http://weber.eti.br</authorUrl>
+	<version>1.0.0</version>
+	<description>Arquivo que exibe um XML dos produtos compatível com a lista de produtos do Buscapé</description>
+	<fileset>
+		<files folder="buscape" target="buscape/">
+			<filename>produtos.php</filename>
+			<filename>index.html</filename>			
+		</files>		
+	</fileset>
+</extension>
